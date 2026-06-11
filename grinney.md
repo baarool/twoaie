@@ -1,1 +1,1 @@
-# **Grinney:** Gateway Cluster
+# Grinney: Gateway Cluster
