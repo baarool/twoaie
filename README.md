@@ -5,3 +5,4 @@
 - [Fendeil: Appliance Cluster](fendeil.md)
 - [Cree: Core Router](cree.md)
 - [Slock: Core Switch](slock.md)
+- [Cohummid: Aggregation Switch](cohummid.md)
