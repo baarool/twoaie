@@ -1,5 +1,7 @@
 # Twoaie: Network Rack
 
+The **Twoaie:** Network Rack is built around a Tecmojo 20U 4 Post Open Frame Rack, and structured on the hierarchical (tiered) topology.
+
 - [Aerag: Antenna Array](aerag.md)
 - [Grinney: Gateway Cluster](grinney.md)
 - [Fendeil: Appliance Cluster](fendeil.md)
