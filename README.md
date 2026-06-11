@@ -8,3 +8,5 @@
 - [Cohummid: Aggregation Switch](cohummid.md)
 - [Scain: Access Switch](scain.md)
 - [Oirr: Access Switch](oirr.md)
+- [Tastey: NAS Unit](tastey.md)
+- [Stoyr: NAS Unit](stoyr.md)
