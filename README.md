@@ -1,7 +1,7 @@
 # Twoaie: Network Rack
 
 - [Aerag: Antenna Array](aerag.md)
-- [Grinney: Gateway Cluster](grinney)
+- [Grinney: Gateway Cluster](grinney.md)
 - [Fendeil: Appliance Cluster](fendeil.md)
 - [Cree: Core Router](cree.md)
 - [Slock: Core Switch](slock.md)
