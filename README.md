@@ -7,3 +7,4 @@
 - [Slock: Core Switch](slock.md)
 - [Cohummid: Aggregation Switch](cohummid.md)
 - [Scain: Access Switch](scain.md)
+- [Oirr: Access Switch](oirr.md)
