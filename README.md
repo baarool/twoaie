@@ -4,3 +4,4 @@
 - [Grinney: Gateway Cluster](grinney)
 - [Fendeil: Appliance Cluster](fendeil.md)
 - [Cree: Core Router](cree.md)
+- [Slock: Core Switch](slock.md)
