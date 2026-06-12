@@ -1,6 +1,6 @@
 # Grinney: Gateway Cluster
 
-## Nodes:
+## Nodes
 
 1. Teltonika TRB501
 2. Teltonika TRB501
